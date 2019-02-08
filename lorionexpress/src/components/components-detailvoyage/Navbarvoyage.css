@@ -1,0 +1,33 @@
+.pad {
+    background-color: rgb(37,194,233);
+    margin-top: 0px;
+    border-radius: 0px 0px 12px 12px;
+}
+
+
+.brand {
+    font-weight: bold;
+}
+
+.price{
+    font-size: 30px;
+    margin-top: 2%;
+}
+
+.date {
+    font-style: italic;
+    white-space:nowrap;
+    font-size: 24px;
+    margin-top: 4%;
+}
+
+.title{
+    font-size: 30px;
+    margin-top: 1%;
+}
+
+.formulaire{
+}
+
+
+
